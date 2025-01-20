@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">Passionate about software development and solving technological problems. I am acquiring skills in languages such as Java, JavaScript, Python, HTML, and CSS, with the goal of applying my knowledge to innovative projects.</h3>
+<h3 align="center">I'll never trust the semicolon.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
