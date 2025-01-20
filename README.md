@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">Passionate about software development</h3>
 
-<h3 align="center">Daily Tools.</h3>
+<h3 align="center">Daily Stack</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
