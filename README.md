@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Isaac  <img src= https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif width="40px"/></h1> 
 <h3 align="center">I'm a passionate software developer with a love for solving technical challenges and building innovative solutions.</h3>
 
-<h3 align="center">Daily Stack</h3>
+<h3 align="center">Daily Tech Stack</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="30" />
